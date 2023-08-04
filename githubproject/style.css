@@ -1,0 +1,56 @@
+*{
+    background-color: black;
+}
+.cl1 h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+}
+.cl1 a{
+    color:rgb(77, 196, 152) ;
+    margin-left: 650px;
+}
+.cl5 video{
+    display: flex;
+    margin-left: 565px;
+    margin-top: 25px;
+}
+.cl2 h1{
+    color: white;
+    font-size: 50px;
+    margin-left: 500px;
+}
+.cl2 p{
+    color: gray;
+    font-size: 35px;
+    margin-left: 110px;
+
+}
+.cl3 img{
+    display: flex;
+    margin-left: 150px;
+    height: 600%;
+    width: 80%;
+}
+.cl4 img{
+    display: flex;
+    margin-left: 700px;
+    margin-top: 35px;
+}
+.cl4 h1{
+
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.cl4 a{
+    color:rgb(77, 196, 152) ;
+    margin-left: 650px;
+}
+p{
+    color:grey;
+    margin-left: 1400px;
+    font-size: large;
+}
